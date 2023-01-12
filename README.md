@@ -1,4 +1,4 @@
-<h1 align="center"> Player de Música </h1>
+<h1 align="center"> Card  </h1>
 
 <p align="center">
 Desafio exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
